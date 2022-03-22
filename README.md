@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanyTalreja
+- 👋 Hi, I’m @Tanishq Talreja
 - 👀 I’m interested in Programming and AI/Robotics
 - 🌱 I’m currently learning Computer Languages
 - 💞️ I’m looking to collaborate on AI
